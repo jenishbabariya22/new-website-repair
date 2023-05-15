@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-Black.woff2') format('woff2'),
+        url('TitilliumWeb-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-ExtraLight.woff2') format('woff2'),
+        url('TitilliumWeb-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-LightItalic.woff2') format('woff2'),
+        url('TitilliumWeb-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-Light.woff2') format('woff2'),
+        url('TitilliumWeb-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-Bold.woff2') format('woff2'),
+        url('TitilliumWeb-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-ExtraLightItalic.woff2') format('woff2'),
+        url('TitilliumWeb-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-SemiBoldItalic.woff2') format('woff2'),
+        url('TitilliumWeb-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-Regular.woff2') format('woff2'),
+        url('TitilliumWeb-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-SemiBold.woff2') format('woff2'),
+        url('TitilliumWeb-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-Italic.woff2') format('woff2'),
+        url('TitilliumWeb-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Titillium Web';
+    src: url('TitilliumWeb-BoldItalic.woff2') format('woff2'),
+        url('TitilliumWeb-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('Archivo-SemiBoldItalic.woff2') format('woff2'),
+        url('Archivo-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('Archivo-SemiBold.woff2') format('woff2'),
+        url('Archivo-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-BlackItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Black.woff2') format('woff2'),
+        url('ArchivoCondensed-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Bold.woff2') format('woff2'),
+        url('ArchivoCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Light.woff2') format('woff2'),
+        url('ArchivoCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-ExtraBold.woff2') format('woff2'),
+        url('ArchivoCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-MediumItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-BoldItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-ExtraLight.woff2') format('woff2'),
+        url('ArchivoCondensed-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-LightItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Italic.woff2') format('woff2'),
+        url('ArchivoCondensed-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-ExtraBoldItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-ExtraLightItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Medium.woff2') format('woff2'),
+        url('ArchivoCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Thin.woff2') format('woff2'),
+        url('ArchivoCondensed-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-SemiBold.woff2') format('woff2'),
+        url('ArchivoCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-SemiBoldItalic.woff2') format('woff2'),
+        url('ArchivoCondensed-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Archivo Condensed';
+    src: url('ArchivoCondensed-Regular.woff2') format('woff2'),
+        url('ArchivoCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
